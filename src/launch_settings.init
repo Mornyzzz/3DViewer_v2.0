@@ -1,0 +1,9 @@
+[General]
+backgroundColor=Black
+lineColor=White
+lineType=Solid
+lineWidth=1
+projection=Parallel
+vertexColor=Green
+vertexDisplay=Circle
+vertexSize=4
